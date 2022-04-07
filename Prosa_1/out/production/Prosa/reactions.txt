@@ -1,0 +1,36 @@
+Dopey:
+if with Grumpy -> summons Doc.
+
+if with Sneezy -> dismisses Sneezy
+
+if last -> Makes everyone laugh
+
+Grumpy:
+
+if with Dopey -> summons Doc
+
+if with Bashfull -> dismisses Bashfull
+
+if last -> Walks away angry
+
+Bashful:
+if with Dopey -> summons Doc
+
+if with Doc -> dismisses Doc
+
+if last -> Hides in his beard
+
+Doc:
+
+if with Sneezy -> summons Bashful //hide behind.
+
+if with Bashful -> dismisses Bashful (kissus)
+
+if last -> Makes everyone go to the mines
+
+Sneezy:
+if with Bashful -> summons Dopey
+
+if with Grumpy -> dismisses Grumpy.
+
+if last -> Sneezes loudly.
